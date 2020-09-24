@@ -52,7 +52,6 @@
         "illuminate/database": "^8.0.0",
         "illuminate/support": "^8.0.0",
         "jeremeamia/superclosure": "^2.4.0",
-        "rinvex/laravel-support": "^4.3.1",
         "spatie/eloquent-sortable": "^3.9.0",
         "spatie/laravel-sluggable": "^2.5.0",
         "spatie/laravel-translatable": "^4.4.0"
