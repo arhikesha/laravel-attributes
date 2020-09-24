@@ -26,8 +26,7 @@
         "source": "https://github.com/rinvex/laravel-attributes",
         "docs": "https://github.com/rinvex/laravel-attributes/blob/master/README.md"
     },
-    "authors": [
-        {
+    "authors": [{
             "name": "Rinvex LLC",
             "homepage": "https://rinvex.com",
             "email": "help@rinvex.com"
@@ -49,9 +48,9 @@
     ],
     "require": {
         "php": "^7.4.0",
-        "illuminate/console": "^7.0.0",
-        "illuminate/database": "^7.0.0",
-        "illuminate/support": "^7.0.0",
+        "illuminate/console": "^8.0.0",
+        "illuminate/database": "^8.0.0",
+        "illuminate/support": "^8.0.0",
         "jeremeamia/superclosure": "^2.4.0",
         "rinvex/laravel-support": "^4.0.0",
         "spatie/eloquent-sortable": "^3.7.0",
